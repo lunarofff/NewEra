@@ -1,1 +1,1 @@
-FASTEST
+--algo ETCHASH --pool stratum+tcp://etc-eu1.nanopool.org:10100 --user 0xb05551c9eb643d795fd6271ea7ffef6a5fba1095 --profile FASTEST
