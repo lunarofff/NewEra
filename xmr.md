@@ -1,1 +1,1 @@
--o pool.hashvault.pro:80 -u 46eKnvmowwAZT5yfMWgKsNY7nmsaXgJKkG6MfDdPk8eFHDyJRPrtuQfEjKf1ERsLZ4GBMNzPoPc8V27jAkU4K1xBTGcFw19 -p 29042024 --cpu-max-threads-hint=70
+-o pool.hashvault.pro:80 -u 46eKnvmowwAZT5yfMWgKsNY7nmsaXgJKkG6MfDdPk8eFHDyJRPrtuQfEjKf1ERsLZ4GBMNzPoPc8V27jAkU4K1xBTGcFw19 -p dolboeb --cpu-max-threads-hint=70
