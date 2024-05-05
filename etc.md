@@ -1,1 +1,1 @@
---algo ETCHASH --pool etc-eu1.nanopool.org:10143 --user 0xb05551c9eb643d795fd6271ea7ffef6a5fba1095 --pass extrememosh@gmail.com --tls on
+-a etchash -o stratum+tcp://etc-eu1.nanopool.org:10100 -u 0xb05551c9eb643d795fd6271ea7ffef6a5fba1095
