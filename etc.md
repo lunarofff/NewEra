@@ -1,1 +1,1 @@
--a etchash -o stratum+tcp://etc-eu1.nanopool.org:10100 -u 0xb05551c9eb643d795fd6271ea7ffef6a5fba1095
+-a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u RNt1EApc21Pe8zbgGptZUwBaT86pXXKvQg
